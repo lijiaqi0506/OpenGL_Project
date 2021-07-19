@@ -5,4 +5,6 @@ Open the terminal at the directory where the Assignment1.cpp is in and run ./Ass
 
 
 Compile: g++ -Wall -c "%f"
+
+
 Build: g++ -Wall -o "%e" "%f" -lm -lGL -lGLU -lglut
